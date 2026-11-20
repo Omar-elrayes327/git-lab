@@ -1,1 +1,2 @@
-﻿Application Name: University Portal
+﻿Application Name: Student Portal
+
