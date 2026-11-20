@@ -1,3 +1,4 @@
 ## Notes
 
-This is a short note generated for the document.
+Keep the greeting app lightweight and easy to use. New behavior should remain
+optional so a plain run continues to feel simple and friendly.
