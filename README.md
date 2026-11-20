@@ -1,3 +1,4 @@
+
 # Friendly Greeting App
 
 A small Python command-line app that prints a greeting. You can choose a name,
@@ -52,3 +53,4 @@ For all available arguments, run:
 ```text
 python app.py --help
 ```
+
